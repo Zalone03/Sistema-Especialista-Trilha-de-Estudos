@@ -6,7 +6,7 @@ curso em sprints, com percentual de conclusão, dias planejados e duração esti
 
 Projeto acadêmico do curso de Análise e Desenvolvimento de Sistemas (IFSC).
 
-**[Abrir a aplicação](https://zalone03.github.io/ProjetoFaculdadeSistemaEspecialistaTrilhaDeEstudos/)**
+**[Abrir a aplicação](https://zalone03.github.io/Sistema-Especialista-Trilha-de-Estudos/)**
 
 ## Como funciona
 
@@ -51,7 +51,7 @@ navegador.
 ## Como executar
 
 ```bash
-git clone https://github.com/Zalone03/ProjetoFaculdadeSistemaEspecialistaTrilhaDeEstudos.git
+git clone https://github.com/Zalone03/Sistema-Especialista-Trilha-de-Estudos.git
 ```
 
 Depois é só abrir o `index.html`. Nenhuma instalação é necessária.
